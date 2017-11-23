@@ -25,7 +25,7 @@ SECRET_KEY = 'm#gvv)@^7*42$wo!*hjr%&d+1_v#$2n!$nh0t%29k4ain3=*(%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['pythonbyte.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
